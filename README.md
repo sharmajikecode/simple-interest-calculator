@@ -1,1 +1,1 @@
-# simple-interest-calculator using C.
+# simple-interest-calculator
